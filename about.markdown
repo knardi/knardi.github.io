@@ -7,7 +7,7 @@ order: 2
 
 My name is Kevin Nardi, but you can call me nardi.
 
-I've worked at Apple 15 years. I used to write code, and now I talk about writing code.
+I've worked at Apple 15 years. I used to write code, and now I talk about writing code. And dream about it.
 
 Things I have helped build, chronologically:
 * [Apple News API](https://developer.apple.com/documentation/apple_news/apple_news_api)
