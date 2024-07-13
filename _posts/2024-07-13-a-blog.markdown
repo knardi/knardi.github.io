@@ -1,0 +1,9 @@
+---
+layout: post
+title: "A blog"
+date: 2024-07-13 00:49:14 -0700
+categories: first godspeed
+---
+This is my blog. There are many like it, etc. I fully expect this to be the only post I ever make, as I have a terrible track record with blogs. Either that, or I'll see you back here in a couple of years.
+
+Godspeed.

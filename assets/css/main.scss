@@ -1,0 +1,53 @@
+---
+---
+html {
+    margin: 2em;
+}
+
+body {
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+main, article {
+    margin: 3em 0em;
+}
+
+article {
+    width: 400pt;
+}
+
+time {
+    color: #AAA;
+    font-size: 75%;
+    font-weight: lighter;
+}
+
+.excerpt {
+    width: 400pt;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0em;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li + li:before {
+    content: "·";
+    margin: 0 0.5em;
+    font-weight: bolder;
+}
+
+ul.posts {
+    list-style-type: none;
+    padding-left: 0em;
+}
+
+.site-description {
+    color: #EEE;
+    font-size: 75%;
+    font-weight: lighter;
+}
