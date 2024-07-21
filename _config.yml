@@ -31,6 +31,8 @@ github_username: knardi
 # No theme!
 # theme: minima
 
+timezone: America/Los_Angeles
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
