@@ -5,7 +5,7 @@ date: 2024-07-30 23:14:35 -0700
 categories: third bloggin
 ---
 How about this—to make this a real honest-to-Goodness blog,
-I will make a log entry, on the web. A sort of web log, if you will.
+I will make a log entry, on the web. A web log, if you will.
 
 I am currently:
 * Working on a stressful project at work.
